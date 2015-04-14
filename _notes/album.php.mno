@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:pid;datatype:int,name:image_slug;datatype:string,name:post_id;datatype:int,name:galleryid;datatype:int,name:filename;datatype:string,name:description;datatype:blob,name:alttext;datatype:blob,name:imagedate;datatype:datetime,name:exclude;datatype:int,name:sortorder;datatype:int,name:meta_data;datatype:blob,name:extras_post_id;datatype:int,name:updated_at;datatype:int" />
+</info>
